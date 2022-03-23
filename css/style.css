@@ -21,7 +21,6 @@ body {
 .container {
   width: 100%;
   max-width: 425px;
-  padding: 0 5%;
 }
 
 .attribution {
@@ -52,6 +51,7 @@ body {
 @media screen and (max-width: 425px) {
   .content-area {
     padding: 20px;
+    margin: 0 5%;
   }
 }
 
