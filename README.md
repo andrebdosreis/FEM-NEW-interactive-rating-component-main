@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - [Solution URL](https://github.com/andrebdosreis/FEM-NEW-interactive-rating-component-main)
-- [Live Site URL](https://andrebdosreis.github.io/3-column-preview-card-component-main/)
+- [Live Site URL](https://andrebdosreis.github.io/FEM-NEW-interactive-rating-component-main/)
 
 ## My process
 
